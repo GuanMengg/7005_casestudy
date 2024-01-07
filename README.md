@@ -1,4 +1,4 @@
-# 7005_casestudy
+# Project Overview
 Project objectives:
 <p>Determine which variables (such as age, purchase frequency, consumption level, etc.) are significantly related to customer satisfaction.</p>
 <p>Analyze the specific impact of these key factors on satisfaction, that is, how and to what extent they affect customer satisfaction.</p>
